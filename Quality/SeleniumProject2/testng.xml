@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SmokeSuite" parallel="none" thread-count="2">
+	<test name="ParallelTest 1">
+		<classes>
+			<class name="myPackage.TestParallel" />
+		</classes>
+	</test>
+</suite>
